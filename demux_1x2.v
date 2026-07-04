@@ -1,3 +1,5 @@
+//Abba Adamu salisu - 04-07-2026 - demux_1X2_tb
+
 module demux_1x2(
     input D,
     input S,
